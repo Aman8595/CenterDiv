@@ -1,2 +1,2 @@
 # CenterDiv
-different ways place a div at center
+different ways of placing a div at center
